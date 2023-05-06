@@ -5,8 +5,8 @@
     
     <entry>
       <title>demo文章测试</title>
-      <link href="/2023/09/05/demo/"/>
-      <url>/2023/09/05/demo/</url>
+      <link href="/posts/32b7c2e1.html"/>
+      <url>/posts/32b7c2e1.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
@@ -34,8 +34,8 @@
     
     <entry>
       <title>demo文章测试</title>
-      <link href="/2023/09/05/hello-world/"/>
-      <url>/2023/09/05/hello-world/</url>
+      <link href="/posts/32b7c2e1.html"/>
+      <url>/posts/32b7c2e1.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
@@ -63,8 +63,8 @@
     
     <entry>
       <title>AI资料库</title>
-      <link href="/2023/05/03/yuque/AI%E8%B5%84%E6%96%99%E5%BA%93/"/>
-      <url>/2023/05/03/yuque/AI%E8%B5%84%E6%96%99%E5%BA%93/</url>
+      <link href="/posts/fb597cfe.html"/>
+      <url>/posts/fb597cfe.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="https://manteng.yuque.com/attachments/yuque/0/2023/pdf/35520497/1683097472313-7b6580d9-4764-4fd2-8e77-9b7d38acc808.pdf">陆奇深圳演讲（2023 年 4 月 23 日）.pdf</a></p>]]></content>
       
@@ -76,8 +76,8 @@
     
     <entry>
       <title>人工智能</title>
-      <link href="/2023/05/03/yuque/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
-      <url>/2023/05/03/yuque/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</url>
+      <link href="/posts/c1fcb27d.html"/>
+      <url>/posts/c1fcb27d.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -89,8 +89,8 @@
     
     <entry>
       <title>大数据技术</title>
-      <link href="/2023/05/03/yuque/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF/"/>
-      <url>/2023/05/03/yuque/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF/</url>
+      <link href="/posts/2649f93b.html"/>
+      <url>/posts/2649f93b.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -102,8 +102,8 @@
     
     <entry>
       <title>工程技术</title>
-      <link href="/2023/05/03/yuque/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-      <url>/2023/05/03/yuque/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF/</url>
+      <link href="/posts/df2c87fb.html"/>
+      <url>/posts/df2c87fb.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -115,8 +115,8 @@
     
     <entry>
       <title>结构化思考力</title>
-      <link href="/2023/05/03/yuque/%E7%BB%93%E6%9E%84%E5%8C%96%E6%80%9D%E8%80%83%E5%8A%9B/"/>
-      <url>/2023/05/03/yuque/%E7%BB%93%E6%9E%84%E5%8C%96%E6%80%9D%E8%80%83%E5%8A%9B/</url>
+      <link href="/posts/424c0997.html"/>
+      <url>/posts/424c0997.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="前言-结构思考力改善思考结构，更接近事物本质"><a href="#前言-结构思考力改善思考结构，更接近事物本质" class="headerlink" title="前言-结构思考力改善思考结构，更接近事物本质"></a>前言-<strong>结构思考力改善思考结构，更接近事物本质</strong></h2><p>思考结构决定人的行为，且需要不断完善。<br>万能公式： 在 XX 基础上，从 a，b, c 方面，说明了什么。<br><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/Fkg7UPY-DNCf8rvsk8ERi37RAF6K.png"></p><ul><li>理解：接收信息、并解析其结构</li><li>重构：重构结构、使其清晰而全面</li><li>呈现：形象化展现重构后的结构</li></ul><h2 id="理解-接收信息并解析其结构，隐性思维显性化"><a href="#理解-接收信息并解析其结构，隐性思维显性化" class="headerlink" title="理解-接收信息并解析其结构，隐性思维显性化"></a>理解-<strong>接收信息并解析其结构，隐性思维显性化</strong></h2><p><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/FoSUwEKq97ckyTgH1SRIcUlakcpm.png"><br>结构思考力识别概括技术</p><ul><li>识别：识别信息中的事实与观点（理由和结论）。</li><li>判断：判断事实与观点的对应关系，画出结构图。</li><li>概括：一句话概括所有内容。</li></ul><h2 id="重构-重构结构使其更接近本质，显性思维结构化"><a href="#重构-重构结构使其更接近本质，显性思维结构化" class="headerlink" title="重构-重构结构使其更接近本质，显性思维结构化"></a>重构-<strong>重构结构使其更接近本质，显性思维结构化</strong></h2><p><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/FvsD6suJ5lofiYPIXfP4BdeXdRJQ.png"><br>重构的四项基本原则</p><ul><li>论：结论先行</li><li>证：以上统下</li><li>类：归类分组</li><li>比：逻辑推进</li></ul><h3 id="论：结论先行"><a href="#论：结论先行" class="headerlink" title="论：结论先行"></a>论：结论先行</h3><ul><li>典范，政府工作报告；新闻的标题；咨询公司的结构</li><li>有中心思想的主题句。主谓结构（主语+名词：八方支援）、动宾结构（动词+名词：引人入胜）</li><li>结论先行三步法<ol><li>结论先行，表明观点</li><li>依次阐明要点，对观点进行说明</li><li>再一次总结观点</li></ol></li></ul><h3 id=""><a href="#" class="headerlink" title=""></a><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/Ft4wvFR-rFk9SUNQJPJQvI_YOp_2.png"></h3><h3 id="证：以上统下"><a href="#证：以上统下" class="headerlink" title="证：以上统下"></a>证：以上统下</h3><ul><li>总结说五个方面，下面也要讲五个方面；总结说什么，详细也要描述什么。</li><li>结论概括理由，理由支撑结论。</li></ul><p><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/FkzaTqGOqzpmd-WRl0vcHcM6i_wS.png"></p><h3 id="类：归类分组"><a href="#类：归类分组" class="headerlink" title="类：归类分组"></a>类：归类分组</h3><ul><li>MECE 原则：相互独立，完全穷尽。确保无重复，无遗漏，无交叉。</li></ul><p><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/FkWAQzBk7vzKZ6ma3V117MhzW4im.png"></p><h3 id="比：逻辑推进"><a href="#比：逻辑推进" class="headerlink" title="比：逻辑推进"></a>比：逻辑推进</h3><ul><li>时间顺序：时间先后顺序</li><li>结构顺序：整体分为部分，按顺时针，按从上到下的顺序。</li><li>重要性顺序：首先，其次，再次。</li></ul><p><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/Fpq2M19g8iMfwK9USKsg9zZ3O-K-.png"></p><h2 id="呈现-结构轮盘，结构思维想象画"><a href="#呈现-结构轮盘，结构思维想象画" class="headerlink" title="呈现-结构轮盘，结构思维想象画"></a>呈现-结构轮盘，结构思维想象画</h2><h3 id="描述问题定方向"><a href="#描述问题定方向" class="headerlink" title="描述问题定方向"></a>描述问题定方向</h3><p>5W2H 框架描述问题</p><h3 id="基于目标定主题"><a href="#基于目标定主题" class="headerlink" title="基于目标定主题"></a>基于目标定主题</h3><ul><li>确定目标，”AB 法则”让表达有的放矢<ul><li>AB 法则让表达有的放矢。A(Actor 受众) B(Behavior 行为)，每次表达之前，明确受众（给谁讲），你期待对方有什么行为。</li></ul></li><li>设计序言，”SCQA”获得领导赏识的高效沟通公式<ul><li>Situation：情景，原本稳定的状态描述</li><li>Complication：冲突，颠覆现状、发现问题</li><li>Question：疑问，选出待完成重要课题</li><li>Answer：回答，提出假设性解决方案</li></ul></li></ul><h3 id="纵向结构分层次"><a href="#纵向结构分层次" class="headerlink" title="纵向结构分层次"></a>纵向结构分层次</h3><ul><li>自上而下，疑问回答做分解<ul><li>设想问题，从对方角度出发的新模式</li><li>回答问题，提前想好答案事半功倍</li></ul></li><li>自下而上，概括总结做聚合<ul><li>列出要点，收集信息并罗列要点</li><li>分类命名，分类后并将信息命名</li><li>概括结论，寻找共性概括出结论</li></ul></li></ul><h3 id="横向结构选顺序"><a href="#横向结构选顺序" class="headerlink" title="横向结构选顺序"></a>横向结构选顺序</h3><ul><li>选择演绎，让说服更有力<ul><li>演绎推理，适用于需要说服对方时，让你的表达更有说服力</li></ul></li><li>选择归纳，让要点更清晰<ul><li>归纳推理，适用于对方关注解决方案时，可以让要点更清晰</li></ul></li></ul><h3 id="形象表达做演示"><a href="#形象表达做演示" class="headerlink" title="形象表达做演示"></a>形象表达做演示</h3><ul><li>配”关系，4 类模式 16 种关系，让演示更有效</li><li>“得”图示，根据关系匹配相应的图示，确保使用正确图形做 PPT</li><li>“上”包装，让观点更吸引人、更容易记</li></ul><p><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/Fj4WsqMHfosfap4l1L9CpGgfKMSo.png"></p>]]></content>
       
@@ -128,8 +128,8 @@
     
     <entry>
       <title>《被讨厌的勇气》</title>
-      <link href="/2023/05/03/yuque/%E3%80%8A%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94%E3%80%8B/"/>
-      <url>/2023/05/03/yuque/%E3%80%8A%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94%E3%80%8B/</url>
+      <link href="/posts/494d4d85.html"/>
+      <url>/posts/494d4d85.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>本书采用对话形式比较零散，结合自身整理笔记，想明白生活普通事足矣。<br>阿德勒心理学不是改变他人的心理学，而是追求自我改变的心理学，年轻人和老哲人从看待过去，人际关系，面向幸福几个方面对话阐述。</p><h2 id="看待过去"><a href="#看待过去" class="headerlink" title="看待过去"></a>看待过去</h2><p><strong>目的论而非原因论。</strong>弗洛伊德认为过去的经历或环境，影响着我们潜意识，决定我们人生，强调原因论。而阿德勒认为重要的不是过去而是怎么看待过去，经历本身决定不了什么，怎么看待经历决定着我们的生活，强调目的论。当下生活无论好坏都是自己主动选择的结果，有的人过去经历悲惨但积极主动获得美好人生，有得人过去经历富足但没有好好对待当下，过着不如意生活。阿德勒认为人们为了达到某种目的会寻找理由解释自己的行为。那些爱抱怨喜欢找理由的人，只不过不愿意改变自我，不愿意牺牲享受乐趣又或者懒惰等。例如我们不爱健身读书，早睡早起，总会说工作忙没时间啥的。</p><h2 id="人际关系"><a href="#人际关系" class="headerlink" title="人际关系"></a>人际关系</h2><p>人际关系的起点是“课题分离”，终点是“共同体感觉”。</p><h3 id="课题分离"><a href="#课题分离" class="headerlink" title="课题分离"></a>课题分离</h3><p>一切人际关系矛盾都起因于对别人的课题妄加干涉或者自己的课题被别人妄加干涉。只要能够进行课题分离，人际关系就会发生巨大改变。人为什么会如此在意别人的评价呢？阿德勒认为因为你还不会进行课题分离，把原本应该是别人的课题也看成是自己的课题。“别人不是为了满足你的期待而活”，想要解决人际烦扰，首先要思考“这是谁的课题”，然后进行课题分离——哪些是自己的课题，哪些是别人的课题，要冷静地划清界限，不去干涉别人的课题也不让别人干涉自己的课题。父母总是说“为你着想”之类的话。但是，父母的行为有时候很明显是为了满足自己的目的：面子、虚荣或者支配欲。也就是说，不是“为了你”而是“为了我”，正因为察觉到这种欺骗行为，孩子才会反抗。<br>如果人际关系中有“回报思想”存在，那就会产生“因为我为你做了这些，所以你就应该给予相应回报”这样的想法。这是与课题分离相悖的思想，我们既不可以寻求回报，也不可以受其束缚。<br>“要想缔结良好的人际关系，需要保持一定距离；太过亲密就无法正面对话。但是，距离也不可以太远。”课题分离不是为了疏远他人，而是为了解开错综复杂的人际关系之线。</p><h3 id="共同体感觉"><a href="#共同体感觉" class="headerlink" title="共同体感觉"></a>共同体感觉</h3><p><strong>把对自己的执著变成对他人的关心，以共同体融入，思考为他人带来什么。</strong><br>他人如何关注自己、如何评价自己？又多大程度上满足自己的欲求？受这种认可欲求束缚的人看似在看着他人，但实际上眼里却只有自己。失去对他人的关心而只关心“我”，也就是以自我为中心。你正因为不想被他人认为自己不好，所以才在意他人的视线，这不是对他人的关心，而是对自己的执著。<br>把他人看作伙伴并能够从中感到“自己有位置”的状态，就叫共同体感觉。不是考虑“这个人会给我什么”，而是思考“我能给这个人什么”，这就是共同体的参与和融入。<br>把对自己的执著（selfinterest）转换成对他人的关心（social interest），建立起共同体感觉。这需要从以下三点做起：“自我接纳”“他者信赖”和“他者贡献”。<br><strong>自我接纳。</strong>没必要充分肯定自我，接纳自己无法达成的，比如接纳自己出生或者长相。有句名言：“上帝，请赐予我平静，去接受我无法改变的；给予我勇气，去改变我能改变的；赐我智慧，分辨这两者的区别。<br><strong>他者信赖。</strong>在相信他人的时候不附加任何条件，这就是信赖。比如夫妻间不查对方手机。自我接纳。只要能够接受真实的自己并看清“自己能做到的”和“自己做不到的”，也就可以理解背叛是他人的课题，继而也就不难迈出迈向他者信赖的步伐了。<br><strong>他者贡献。</strong>家庭，生活，工作本质也在他者贡献，如果找不到自己对他人的价值如同行尸走肉，很多富豪在做公益与其说帮助别人何不如说在帮助自己，也是他者贡献。<br>人际关系不顺真正的问题在于无法做到自我接纳、他者信赖和他者贡献，却将焦点聚集到微不足道的点上并企图以此评价整个世界，这就是缺乏人生和谐的错误生活方式。<br>例如工作狂则是只关注人生特定的侧面。也许他们会辩解说：“因为工作忙，所以无暇顾及家庭。”但是，这其实是人生的谎言。只不过是以工作为借口来逃避其他责任。本来家务、育儿、交友或兴趣应该全都给予关心，阿德勒不认可任何一方面突出的生活方式。</p><h3 id="其他人际观点"><a href="#其他人际观点" class="headerlink" title="其他人际观点"></a>其他人际观点</h3><p><strong>自卑感。</strong>人都有追求进步的心理，树立理想并为此奋斗努力，当无法达成时就会产生自卑感。而自卑感并非坏事，正确对待可以转变为成长的催化剂。若不正确对待会处于把自卑感当做某种理由的状态这叫自卑情结。就比如学历低、人长得矮，遇到什么事都会归因于此，常说“因为我学历低，所以我现在只能这样混日子了”。<strong>越自负的人越自卑。</strong>表现得好像自己很优秀，继而沉浸在虚假的优越感中，自吹自擂的人其实是对自己没有自信，比如强调自己的长相身材，有钱啥的。<strong>自卑感当做武器。</strong>夸耀成长史中各种不幸，即使别人想要去安慰或帮助改变，也会用“你无法了解我的心情”来推开援手，以自己不幸为武器支配对方。通过诉说自己如何不幸、如何痛苦来让周围的比如家人或朋友担心，从而束缚支配其言行。<br><strong>虽然不同但是平等。</strong>不与任何人竞争，只要自己不断前进即可，没必要把自己和别人相比较，我们虽然不同但是平等。<strong>不站在竞争角度看。</strong>很多人取得社会性成功却感受不到幸福，是因为活在竞争中。嫉妒或者眼红，无法真心祝福过得幸福的他人，是因为站在竞争的角度考虑人际关系，把他人的幸福看作“我的失败”，所以才无法给予祝福。<br><strong>关于爱的课题。</strong>真正的爱能够保持一种平静而自然的状态。束缚是想要支配对方的表现，是不信任感的想法。与不信任自己的人处在同一个空间里，不可能保持一种自然状态。阿德勒说：“如果想要和谐地生活在一起，那就必须把对方当成平等的人。”<br><strong>关于干涉别人。</strong>人为什么会去干涉别人呢？其背后实际上也是一种纵向关系。正因为把人际关系看成纵向关系、把对方看得比自己低，所以才会去干涉。希望通过干涉行为把对方导向自己希望的方向，坚信自己正确而对方错误。比如理解学习是孩子的课题，而不是居高临下地命令其学习，而是努力地帮助他本人建立“自己能够学习”的自信以及提高其独立应对课题的能力。<strong>表扬他人</strong>。表扬他人的目的就在于“操纵比自己能力低的对方”，其中既没有感谢也没有尊敬，想想父母表扬孩子，领导表扬下属。如果能够与某个人建立起横向关系，也就是建立起真正意义上的平等关系，那就是生活方式的重大转变，所有人际关系都会朝着“横向”发展。从更大共同体层面理解，父母孩子平等，领导下属也是平等的。</p><h2 id="奔向幸福"><a href="#奔向幸福" class="headerlink" title="奔向幸福"></a>奔向幸福</h2><p><strong>不喜欢自己。</strong>对人而言，最大的不幸就是不喜欢自己。对于这种现实，阿德勒认为通过“我对共同体有益”或者“我对他人有用”这种想法就足以让人体会到自己的价值。<br><strong>做好当下。</strong>聚焦“此时此刻”是认真而谨慎地做好现在能做的事情。纠结过去、关注未来，把微弱而模糊的光打向人生整体，自认为看到了些什么。你之前就一直忽略“此时此刻”，只关注根本不存在的过去和未来。对自己的人生和无可替代的刹那撒了一个大大的谎言。<br><strong>人生不具备普适性，需要自己赋给。</strong>阿德勒所说的“人生的意义是由你自己赋予自己的”，就正是这个意思。人生没有普遍性的意义。但是，你可以赋予这样的人生以意义，而能够赋予你的人生以意义的只有你自己。无论你过着怎样的刹那，即使有人讨厌你，只要没有迷失“他者贡献”这颗引导之星，那么你就不会迷失，而且做什么都可以。即使被讨厌自己的人讨厌着也可以自由地生活。</p>]]></content>
       
@@ -141,8 +141,8 @@
     
     <entry>
       <title>《深度思维》</title>
-      <link href="/2023/05/03/yuque/%E3%80%8A%E6%B7%B1%E5%BA%A6%E6%80%9D%E7%BB%B4%E3%80%8B/"/>
-      <url>/2023/05/03/yuque/%E3%80%8A%E6%B7%B1%E5%BA%A6%E6%80%9D%E7%BB%B4%E3%80%8B/</url>
+      <link href="/posts/8606f489.html"/>
+      <url>/posts/8606f489.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><ul><li>逻辑思维<ul><li>5Why 法。对一个问题连续多次追问为什么，直到找到问题的根本原因或者问题没有意义为止。注意是不带情绪的追问，不是审问也不是质问，是为了寻找关键信息而非责怪对象。</li><li>5So 思考法。对一个现象连续追问其产生的结果，以探求它对未来可能造成的影响。对一个现象连续追问其产生的结果，以探求它对未来可能造成的深远影响。注意是推断到发生的事件概率很低或者没意义为止。</li></ul></li><li>换位思维<ul><li>指思考、感受别人的内心所想，并以此为逻辑起点展开自己的推论和行动。从别人角度思考、看待问题，前提要建立共同认知，可以尝试如下方法<ul><li>第一，对于曾经有过类似经历体验的，可以再次调出那些经历体验。</li><li>第二，对于没经历过的，可临时体验下。 如读历史书假设自己身临其境。</li><li>第三，如果无法体验，就寻找有相应经历的人来帮助自己思考。</li></ul></li><li>六顶思考帽换位。<ul><li>白色思考帽让你变得客观，尊重事实；黄色思考帽让你不要错失机会；黑色思考帽让你不要莽撞冒进；绿色思考帽让你勇于创新；红色思考帽让你拥有直觉；而蓝色思考帽让你纵观全局，不出现盲点，也不要失控。当你使用六顶思考帽的思维技巧时，你自然就拥有了上述优点。</li><li>本质是从全局分析、客观事实、感性直觉、乐观思考、保守行事、创新思维不同视角分析。如对于人员众多的会议，可以尝试用此方法，统一思维。</li></ul></li></ul></li><li>可视化思维</li></ul><p>可视化思维是指，将各种信息（包括任务的原始信息、你推演出的临时信息、你大脑中已有的信息）以看得见的形式集中存储在某个平面上——纸张、黑板、电脑屏幕等，储存的信息往往是文字和图形的混合体。常见如时间矩阵图。</p><ul><li>流程思维<ul><li>秘籍型思维。过度相信某个秘籍带来影响，原本只有一定作用的东西，被放大成了万能的、唯一的，于是你把全部的希望都押在了一个东西上，继而放弃了对其他事物的观察和学习，最终无可避免地走向失败，这就是秘籍型思维的危险。例如很多自媒体文章或者所谓培训大师课程本质就是秘籍型思维，你说没道理也不是，但是局部夸大了，让人忽略其他视角，没有全局全流程看。</li><li>全流程优化思维。一件复杂的事情往往由多个流程、步骤组成，把每一个流程、步骤都进行优化，做到（接近）最好，就叫全流程优化。</li></ul></li><li>生态思维<ul><li>淘金模型。意味着你在这个生态中不是只盯住某个点，然后发现有一堆竞争者，而是思考整个生态的状况，思考如何与这些人进行共生。</li><li>森林模型。生态位思维的核心原理是，当你遭遇强者竞争时，除了与其死拼以外，你还可以选择避开它的（时间、空间、食物等）位置。</li></ul></li></ul><p>生态思维告诉我们，不要把目光仅聚焦在一个事物上，而要观察思考它的生态，既包括周围的环境，也包括它与周边事物的关系。这一思路的改变，常常能让人豁然开朗、大梦初醒。思维则要求我们时常留意各个部分之间的关系，认为系统并不等于部分之和。</p><ul><li>系统思维</li></ul><p>在复杂的情境中，传统的因果关系被颠覆，微观层面的静态分析失效了。你需要站在更高的层面上，以更宏观的、系统的高度去看待和解决问题。系统思维要求我们时常留意各个部分之间的关系，认为系统并不等于部分之和。可以通过绘制系统动力图分析。</p><ul><li>大势思维<ul><li>顺势而为，大趋所势。趋势是因为某种内在规律而导致的未来大概率或者必然走向。抓住趋势的本质而不是瞎猜，如同道家所说的知曰常明。</li><li>马太效应。马太效应规律处处都在应用，知识的、财富的马太效应。知识、财富都在头部和尾部两端聚集。财富和知识技能是可以相互转换的，但是转换的效率却有巨大的差距。知识技能很容易转换成财富，但财富却较难转换成知识技能——这个差距就是资金匮乏者改变命运的机会。</li></ul></li><li>兵法思维</li></ul><p>兵法思维讲述的是这样一些思维模式：如何规避风险，捕捉机会，掌握主动权，以确保在漫长的人生中取得总体上最优的发展。<br>致人而不致于人，简单说就是要主动不要被动。</p>]]></content>
       
@@ -154,8 +154,8 @@
     
     <entry>
       <title>《置身事内：中国政府与经济发展》</title>
-      <link href="/2023/05/03/yuque/%E3%80%8A%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%86%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8E%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E3%80%8B/"/>
-      <url>/2023/05/03/yuque/%E3%80%8A%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%86%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8E%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E3%80%8B/</url>
+      <link href="/posts/5b9544ad.html"/>
+      <url>/posts/5b9544ad.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>作者复旦大学副教授兰小欢，将经济学原理与中国经济发展相结合，深入牵出阐述中国经济的发展，对于政治和经济小白可以有整体认识。在我国，政府不但影响蛋糕的分配，也参与蛋糕的生产，所以不可能脱离政府谈经济，从微观机制和宏观现象上下篇解读。</p><h4 id="微观机制"><a href="#微观机制" class="headerlink" title="微观机制"></a>微观机制</h4><ul><li><strong>地方政府的权利与事务</strong><ul><li><strong>政府治理的特点。</strong>中国的五级政府管理体系：中央-省-市-县-乡镇。党负责重大决策和人事任免，政府负责执行。大多数地方部门既受本级政府领导，又受到上级业务部门领导。任何体制下，权利运作都受到两种约束，做事的能力和做事的意愿。前者取决于掌握的资源，后者取决于各方的积极主动性。</li><li><strong>外部性与规模经济。</strong>一件事情由地方自主决定还是上级，可以从外部性角度考虑（即事情只影响本地，还是影响到外部）。人口密度、地理条件、文化差异影响行政区域划分，行政边界影响经济发展。</li><li><strong>复杂信息。</strong>信息优势是权利运作的关键要素，下级有信息优势，只要下级想办某件事上级不反对，一般都能办，上级即便反对，下级也能变通着办。获取和传递信息需要耗费精力的，上级的监督和审计就非常有必要。</li><li><strong>激励相容。</strong>如果一方想做的事，另一方既有意愿也有能力做好，这叫激励相容。不仅要求政府上下级之间，也要要求工作目标与个人利益激励相容。</li><li><strong>招商引资。</strong>地方政府是城市土地的所有者，通过招商引资发展经济，把工业用地以非常优惠价格转让给企业使用。</li></ul></li><li><strong>财税与政府行为。</strong><ul><li><strong>分税制改革。</strong>要想把握政府的真实意图和动向，不能光读文件还要看政府资金的流向。1994 实现分税制（分税制是指在合理划分各级政府事权范围的基础上，主要按税收来划分各级政府的预算收入，各级预算相对独立，负有明确的平衡责任，各级次间和地区间的差别通过转移支付制度进行调节。）把税收分为三类中央税如关税、地方税如营业税、共享税如增值税。同时设立国税和地税两套机构。企业所得税是我们最大的第二大税种。改革大大增强了中央政府的宏观调控能力，为应对重大风险事件奠定基础。</li><li><strong>土地财政。</strong>不仅包括巨额的土地使用权转让还包括土地使用和开发的各种税收收入。绝大税收来自企业且都在生产环节征收，所以地方政府相对重视企业轻视民生，重视生产而轻视消费。大规模的土地财政收入在 21 世纪初，地方经济发展从工业化变成工业化与城市化。<strong>所谓经济发展，无非就是提高资源使用效率，做到人尽其才，无尽其用，而我国自然资源匮乏，经济起步阶段能利用的资源主要就人力和图地。</strong></li><li><strong>纵向不平衡与横向不平衡。</strong>乡财县管和省直管县，财政管理体制中央-省-市县。地区之间如中西部和东部发展不平衡。公共财政的功能是再分配财政资源，平衡地区间公共服务水平。</li></ul></li><li><strong>政府投融资与债务</strong></li></ul><p>土地资本化的魔力在于可以脱离物理属性，在抽象的意义上将过去储蓄、现在收入、未来前途汇聚在土地上使其价值暴增。</p><ul><li><strong>城投公司与土地金融。</strong>地方政府不能从政府贷款，所以政府想要借钱投资需要成立专门的公司，这类公司大多是国有的。城投公司特点是持有大量的政府土地使用权</li><li><strong>地方政府债务。</strong>地方政府将未来土地收益资本化，从银行等渠道借入大量资金，从而积累大量债务。</li><li><strong>招商引资的地方官。</strong>地方官任期有限要想提升经济增值就得加大投资力度。此块也容易产生腐败。</li><li><strong>工业化中的政府角色。</strong><ul><li>现实世界中没有黑白分明的市场和政府分界，只有利于关系的环环相扣。</li></ul></li></ul><h4 id="宏观现象"><a href="#宏观现象" class="headerlink" title="宏观现象"></a>宏观现象</h4><ul><li><strong>城市化与不平衡</strong><ul><li><strong>房价与居民债务。</strong>房地产被称经济周期之母，一方面银行可以通过按揭创造新购买力，另一方面不可再生的城市土地供给却有限。这矛盾会导致资产泡沫与破裂的周期循环，是金融和房地产不稳定的核心矛盾。我国居民债务不低，主要原因是房价上涨，居民债务已影响到居民消费。房价上涨也会拉大贫富差距。</li><li><strong>不平衡与要素市场改革。</strong>人口流动与市场改革、土地流转与户籍改革。城市化的核心不应该是土地而是人，要实现地区间人均收入平衡，缩小贫富差距，关键也是人。帮助低收入群体就要增加他们的流动性和选择权，让他们人力资本更有价值。同时也要允许农民的土地流动，这些土地资产才会更有价值。总的改革方向是让市场力量在各类要素分配中发挥更大的作用，让资源更加自由流动，提高资源利用率。</li><li><strong>经济发展与贫富差距。</strong>经济增长减速时，社会对不平等的容忍度会减弱，贫富差距容易触发社会矛盾。美国种族冲突加剧根本原因是黑人的贫困。</li></ul></li><li><strong>债务与风险</strong><ul><li><strong>债务与经济衰退。</strong>债务常常把风险集中在承受能力最弱的穷人身上。</li><li><strong>债务的欧美教训。</strong>债务源于人性，总想尽早满足欲望又对未来盲目乐观。</li><li><strong>中国的债务与风险。</strong>我国房产债务比例较高，影子银行</li><li><strong>化解债务风险。</strong>量化宽松主要问题是把增发的货币转移到穷人手中，因此难以刺激消费支出，还会拉大差距。目前货币政策比较谨慎。</li></ul></li><li><strong>国内国际失衡</strong><ul><li><strong>低消费与产能过剩。</strong>我国经济结构失衡的突出特征是消费不足。</li><li><strong>中美贸易冲突。</strong>我国国内产出没有被国内消费掉，因此出口大于进口。美国国内产能不足进口大于出口。技术高压使我国短期内受挫。</li><li><strong>再平衡与国内大循环。</strong>提高居民收入就要推进城市化，让人口向城市聚集。解决就业和提高收入必须靠服务业大发展。推进各类要素的市场化改革，继续扩大开放，转变地方政府角色从生产型向服务型政府转变才能实现国内市场的巨大潜力。</li></ul></li></ul><h4 id=""><a href="#" class="headerlink" title=""></a><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/FiEFP7wLuqtUk3soXSOvFPzQzwAu.jpeg"></h4>]]></content>
       
@@ -167,8 +167,8 @@
     
     <entry>
       <title>《中国哲学简史》</title>
-      <link href="/2023/05/03/yuque/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%93%B2%E5%AD%A6%E7%AE%80%E5%8F%B2%E3%80%8B/"/>
-      <url>/2023/05/03/yuque/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%93%B2%E5%AD%A6%E7%AE%80%E5%8F%B2%E3%80%8B/</url>
+      <link href="/posts/6ae424c.html"/>
+      <url>/posts/6ae424c.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><ul><li><p>中国哲学概述</p><ul><li>每个人都在学习哲学。从启蒙教育《三字经》的“人之初性本善”，再到学校课本的《论语》、《孟子》、《庄子》等经典著作，再到日常成语 “物极必反”等。</li><li>哲学是对人生的系统反思。哲学家把人生作为对象，进行系统反思，通过一种思想学说表达出来。人生、宇宙、生命、知识这些概念都是反思的产物。学哲学的目的是使人作为人能够成为人，而不是成为某种人。</li><li>宗教与哲学。每种宗教核心是一种哲学思想，再此基础叠加上层建筑如迷信，教条，仪式、组织，这就是宗教。例如佛学和佛教也是有区别的。</li><li>哲学的功能。学习哲学不是增进对客观事物的信息，而是为了提高人的心灵，超越现实世界，体验高于高德的价值。</li><li>中国哲学探讨的问题。探讨的是怎么成为内圣外王的道路（内圣是说他的内心致力于心灵的修养，外王是说他在社会活动中好似君王）。在出世和入世之间寻找综合，怎么成为圣人（如同佛教的佛，西方的圣徒）</li><li>中国哲学背景。不管是儒家还是道家任何哲学学说，都有当时经济环境，地理环境，社会环境等背景为前提。</li></ul></li><li><p>几大学说的思想 - 阴阳家 - 把宇宙归结为阴阳两个主要原则。关键词五行、天文、历谱、风水、易传。 - 儒家 - 儒家的本义是读书人或思想者，队伍主要由学者和思想家所组成。 - 代表人物孔子，历史上第一位老师，是儒家学派的创始人。</p></li></ul><p>正名，强调君臣父子，每个人都应该完成其责任和义务；仁义，强调个人品德；忠恕。仁的实践，以自己为尺度来规范自己的行为。“已所不欲勿施于人”；知命。外在条件不可控制，竭尽全力，不必在意得失。“君子坦荡荡，小人长戚戚”</p><pre><code>     - 代表人物孟子。推崇仁政学说，强调政府以德治国，本质是为统治阶级服务的。     - 形而上学。中庸，个人行为和社会关系都有一个中点，使人在表达感情和满足欲望时，知乎所止。一个社会里各种人都懂得对自己的欲望和感情适度的满足，则可以达到和谐、安定、秩序井然。人如果真正懂得普通、寻常生活，人际关系的重要意义，并把他们做得恰到好处，就能天人合一乐，就已经是个圣人。  - 墨家     - 主要是批判儒家，重点思想是兼爱，完全的、不分彼此，无差别的博爱。与儒家的亲亲相对反，将父兄慈、子弟孝、尊长友、年幼悌......等等的亲人对待方式，扩展到其他陌生人身上。  - 名家     - 出于辩者，讲究论辩，语言不再只是思辩用的工具，而是思辩的主要对象。  - 法家     - 队伍法术之士，代表人物韩非子。采用新的方法治理国家，编著告诉百姓什么该做什么不该做。法家和道家是两个极端，道家认为人本来是天真无邪的，鼓吹个人自由，法家认为人生来性恶，主张社会控制一切。儒家认为要靠礼和道德而不是法家的法律刑罚来治理百姓。儒家是理想主义，法家是现实主义。  - 道家     - 道家哲学出发点是保全生命，避免损害生命。教导人顺乎自然。     - 第一阶段早期杨朱思想。采用隐士做法，逃离社会，蹲隐山林。     - 第二阶段《老子》代表。认为社会复杂，逃避并不能达到目的。试图阐述宇宙变化法则，人如果懂得法则，照此形事，可以使事物演变为对自己有利。其代表著作《道德经》，“物极必反”、“知常曰明”，认识自然规律，不要违逆规律。为人处事方面老子认为一个谨慎的人温和可保持自己力量最大、谦虚即可使人不断进步、知足使人处任何事情不致过分就能保全避祸。矫揉造作、轻率放肆是顺用自然的对立面。     - 第三阶段《庄子》代表。即便如此人还是感到岌岌可危，从更高观点。     - 快乐的理解，《逍遥游》得到相对快乐的途径让人充分并自由的发挥其本性和天赋。而达到至乐是需要人对事物更高一层的理解，超越了我，天人合一。     - 死亡的理解，人对事物的正确洞察比如面对死亡的恐惧是可以消除的，死是顺从自然的规律，人痛苦是因为期望人不死而这个是违背规律的。人越多了解事物的因果由来，越能掌握事件的后果，并可减少因此而来的苦楚。</code></pre><ul><li>出世与入世。 - 入世。进入社会，渴望在世俗社会中实现自己的价值，去影响他人。 - 出世。不再关注世俗，脱离尘世的思想，表述一个人不再追逐尘世间的名利而追求精神上的富足。</li><li>佛学与禅宗<ul><li>中国佛学强调因果，种什么因得什么果，任何外在的行为看出去的世界，都是心里的作为产生的必然结果。人的苦难来源于人不认识事物的本性，出于自己的无知而执着的追求又叫执迷不悟，解脱出来的唯一办法是觉悟。佛教种种教义和修行都是为了启发人对世界和自己的觉悟，如无贪欲、无执着。</li><li>最好的修禅便是尽力好眼前当作的事。行事为人，无所用心，一切顺其自然。修行需要人不考虑得失，平常心平常事，仅此而已。</li></ul></li><li>西方哲学</li></ul><p>西方哲学对中国哲学的贡献在于他的逻辑分析方法。佛家和道家使用“负的方法”告诉人们他的对象不是什么，而西方哲学是“正的方法”突出区别，使人知道他的对象是什么。</p>]]></content>
       
@@ -180,8 +180,8 @@
     
     <entry>
       <title>《真希望我父母读过这本书》</title>
-      <link href="/2023/05/03/yuque/%E3%80%8A%E7%9C%9F%E5%B8%8C%E6%9C%9B%E6%88%91%E7%88%B6%E6%AF%8D%E8%AF%BB%E8%BF%87%E8%BF%99%E6%9C%AC%E4%B9%A6%E3%80%8B/"/>
-      <url>/2023/05/03/yuque/%E3%80%8A%E7%9C%9F%E5%B8%8C%E6%9C%9B%E6%88%91%E7%88%B6%E6%AF%8D%E8%AF%BB%E8%BF%87%E8%BF%99%E6%9C%AC%E4%B9%A6%E3%80%8B/</url>
+      <link href="/posts/78da24a0.html"/>
+      <url>/posts/78da24a0.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>《真希望我父母读过这本书》作者菲利帕是资深心里治疗师，写写读后感。</p><ul><li>当父母容易，做好父母难。</li></ul><p>我一直认为所有角色最难当的就是父母了，亲子关系融洽让孩子发自内心认可，需要耗费大量精力的。孩子是父母的镜子，同时要求父母必须做好榜样。过去原生家庭给父母留下的影响不管好坏，我们总希望培养更好的下一代。</p><ul><li>用心感受孩子</li></ul><p>感同身受，以孩子视角看问题而不是以大人视角要求孩子。孩子同大人一样不喜欢被定义，被安排，被贴标签。心态开放愿意从孩子身上学习，接纳孩子的观点来扩充自己的观点。</p><ul><li>孩子发脾气闹情绪</li></ul><p>孩子不像大人还不具备情绪自我调节能力，努力寻找闹情绪的背后原因，有耐心的放慢步伐陪伴孩子，同理孩子，同情他的失落感，用孩子口吻引导他把感受说出来。很多时候他只是需要被理解，被关注，孩子的情感需要被回应，别不理他放任不管，至于要不要满足他的事本身，并非最重要的。</p><ul><li>界定父母而不是孩子</li></ul><p>人际关系中底线突破很容易爆发情绪。用冷静、温和、坚定的语气，多用我陈述句，始终如一的沟通方式对孩子提要求。例如“我不希望你一直看电视，这个节目结束后我会关电视。要不帮我准备晚餐” 而不是 “你别看电视了，把电视关了”。</p>]]></content>
       
@@ -193,8 +193,8 @@
     
     <entry>
       <title>《这样读书就够了》</title>
-      <link href="/2023/05/03/yuque/%E3%80%8A%E8%BF%99%E6%A0%B7%E8%AF%BB%E4%B9%A6%E5%B0%B1%E5%A4%9F%E4%BA%86%E3%80%8B/"/>
-      <url>/2023/05/03/yuque/%E3%80%8A%E8%BF%99%E6%A0%B7%E8%AF%BB%E4%B9%A6%E5%B0%B1%E5%A4%9F%E4%BA%86%E3%80%8B/</url>
+      <link href="/posts/3c48b6f8.html"/>
+      <url>/posts/3c48b6f8.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>该书表达了通过 RIA 方法拆书，这种高效的成人学习方法，解决读书看不懂，看了就忘了，看不下去等问题。<br>1、转变以学习者为中心，而不是以书为中心（那种从头看到尾，陷入各种细节等）。<br>2、明确读书目的，是为了理解知识并能结合自身实践，内化为自身能力并转变为行动，这才达到读书的目的，否则“知易行难”。<br>3、RIA 即阅读拆页+讲解引导+拆为己用。a、阅读提炼核心知识 b、理解知识并关联自身案例用自己话讲解出来 c、将知识运用于实践，使认知和行动都有所改变。<br><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/FgLttOVbL98PSfhsOhbubbsyQwmC.jpeg"></p>]]></content>
       
@@ -206,8 +206,8 @@
     
     <entry>
       <title>《曾国藩家书》</title>
-      <link href="/2023/05/03/yuque/%E3%80%8A%E6%9B%BE%E5%9B%BD%E8%97%A9%E5%AE%B6%E4%B9%A6%E3%80%8B/"/>
-      <url>/2023/05/03/yuque/%E3%80%8A%E6%9B%BE%E5%9B%BD%E8%97%A9%E5%AE%B6%E4%B9%A6%E3%80%8B/</url>
+      <link href="/posts/3515d213.html"/>
+      <url>/posts/3515d213.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>曾国藩天资并不聪慧但能不断修行，学习，进化，知行合一，終成晚清重臣，近代第一大儒。围绕修身，齐家，治国，平天下通过家书告诫自己和身边人，有感于一些点。<br>1、戒多言，不纠缠，少争论<br> 话说太多并非好事，容易嘴巴指挥脑袋，不经过大脑滔滔不绝，过强的表现欲要不得。也不要过多的争论，容易导致不聚焦在事情本身的意气之争，甚至上升到争吵，只要争吵双方都是输家，都内耗掉来消化情绪，破坏和谐了。<br>2、扬善于公庭，规过于私室<br> 公开表扬，私下批评，难得是大小事都能践行到位。<br>3、养活一团春意思，撑起两根穷骨头<br> 不管顺境逆境都要像春天一样生机勃勃、柔和、包容和谐。但也不能一味的柔，也要撑起脊梁骨。说的是刚柔并济，内圣外王的智慧。<br>4、逆来顺受<br> 遇到困境甚至别人刁难时，通过不激发矛盾，以一种四两拔千斤，圆融去化解的处世智慧。有点像打太极，但不踢皮球的意思。<br>5、好色自省<br> 他好色但能光明正大的拿出来说，也坦诚身边人的不良影响，并愿意为戒色而努力去改之。人的本性，到了一定身份公开自身缺点就并非易事，更何况努力改之。</p>]]></content>
       
@@ -219,8 +219,8 @@
     
     <entry>
       <title>博客资料</title>
-      <link href="/2023/05/03/yuque/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%96%99/"/>
-      <url>/2023/05/03/yuque/%E5%8D%9A%E5%AE%A2%E8%B5%84%E6%96%99/</url>
+      <link href="/posts/9de1b4fb.html"/>
+      <url>/posts/9de1b4fb.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -232,8 +232,8 @@
     
     <entry>
       <title>读书分享</title>
-      <link href="/2023/05/03/yuque/%E8%AF%BB%E4%B9%A6%E5%88%86%E4%BA%AB/"/>
-      <url>/2023/05/03/yuque/%E8%AF%BB%E4%B9%A6%E5%88%86%E4%BA%AB/</url>
+      <link href="/posts/552faaad.html"/>
+      <url>/posts/552faaad.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -245,8 +245,8 @@
     
     <entry>
       <title>博客搭建流程</title>
-      <link href="/2023/04/28/yuque/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%B5%81%E7%A8%8B/"/>
-      <url>/2023/04/28/yuque/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%B5%81%E7%A8%8B/</url>
+      <link href="/posts/45075f48.html"/>
+      <url>/posts/45075f48.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="安装-xui"><a href="#安装-xui" class="headerlink" title="安装 xui"></a>安装 xui</h2><p><a href="https://github.com/vaxilu/x-ui">https://github.com/vaxilu/x-ui</a></p><h2 id="自建订阅地址转换"><a href="#自建订阅地址转换" class="headerlink" title="自建订阅地址转换"></a>自建订阅地址转换</h2><p><a href="https://elmagnifico.tech/2023/04/08/sub-web-subconverter/">https://elmagnifico.tech/2023/04/08/sub-web-subconverter/</a></p><h2 id="域名服务商"><a href="#域名服务商" class="headerlink" title="域名服务商"></a>域名服务商</h2><p><a href="https://www.dynadot.com/zh/">https://www.dynadot.com/zh/</a></p><h2 id="DNS-解析"><a href="#DNS-解析" class="headerlink" title="DNS 解析"></a>DNS 解析</h2><p><a href="https://dash.cloudflare.com/271e00e24edc6c67d8d7bfe06da9df2d/mantengtech.xyz/dns/records">https://cloudflare.com</a></p>]]></content>
       
@@ -258,8 +258,8 @@
     
     <entry>
       <title>博客搭建完成</title>
-      <link href="/2023/04/23/yuque/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%AE%8C%E6%88%90/"/>
-      <url>/2023/04/23/yuque/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%AE%8C%E6%88%90/</url>
+      <link href="/posts/38ead4d1.html"/>
+      <url>/posts/38ead4d1.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="热烈庆祝"><a href="#热烈庆祝" class="headerlink" title="热烈庆祝"></a>热烈庆祝</h3><p><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/FtfWc9eyKG9BKGm8UH5JcjrXQ5uL.png"></p><h3 id="代码嵌入"><a href="#代码嵌入" class="headerlink" title="代码嵌入"></a>代码嵌入</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># -*- coding: utf8 -*-</span></span><br><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">handler</span>(<span class="params">event, context</span>):</span><br><span class="line">    r = requests.post(<span class="string">&quot;https://api.github.com/repos/xingyun52/blog/dispatches&quot;</span>,</span><br><span class="line">                      json = &#123;<span class="string">&quot;event_type&quot;</span>: <span class="string">&quot;callbackEvent&quot;</span>&#125;,</span><br><span class="line">                      headers = &#123;<span class="string">&quot;User-Agent&quot;</span>:<span class="string">&#x27;curl/7.52.1&#x27;</span>,</span><br><span class="line">                                 <span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;application/json&#x27;</span>,</span><br><span class="line">                                 <span class="string">&#x27;Accept&#x27;</span>: <span class="string">&#x27;application/vnd.github.everest-preview+json&#x27;</span>,</span><br><span class="line">                                 <span class="string">&#x27;Authorization&#x27;</span>: <span class="string">&#x27;token XXToken&#x27;</span>&#125;)</span><br><span class="line">    <span class="keyword">if</span> r.status_code == <span class="number">204</span>:</span><br><span class="line">        <span class="keyword">return</span> <span class="string">&quot;This&#x27;s OK!&quot;</span></span><br><span class="line">    <span class="keyword">else</span>:</span><br><span class="line">        <span class="keyword">return</span> r.status_code</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>本地环境测试</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">curl -X POST https://api.github.com/repos/xingyun52/blog/dispatches \</span><br><span class="line">    -H <span class="string">&#x27;Accept&#x27;</span>: <span class="string">&#x27;application/vnd.github.everest-preview+json&#x27;</span>\</span><br><span class="line">    -H <span class="string">&quot;Authorization: token XXToken&quot;</span> \</span><br><span class="line">    -d <span class="string">&#x27;&#123;&quot;event_type&quot;:&quot;callbackEvent&quot;&#125;&#x27;</span></span><br></pre></td></tr></table></figure>]]></content>
       
@@ -271,8 +271,8 @@
     
     <entry>
       <title>发布的测试文档</title>
-      <link href="/2023/04/23/yuque/%E5%8F%91%E5%B8%83%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
-      <url>/2023/04/23/yuque/%E5%8F%91%E5%B8%83%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</url>
+      <link href="/posts/ca655f0e.html"/>
+      <url>/posts/ca655f0e.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="语雀测试文档"><a href="#语雀测试文档" class="headerlink" title="语雀测试文档"></a>语雀测试文档</h2><h3 id="测试图片显示"><a href="#测试图片显示" class="headerlink" title="测试图片显示"></a>测试图片显示</h3><p><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/FrqTLq1xfs2H_nViqZ9Expw4yj2F.png"></p><h3 id="测试视频显示"><a href="#测试视频显示" class="headerlink" title="测试视频显示"></a>测试视频显示</h3><p><a href="https://player.bilibili.com/player.html?aid=55895675&autoplay=0">点击查看【bilibili】</a></p>]]></content>
       
