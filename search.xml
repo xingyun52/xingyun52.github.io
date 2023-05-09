@@ -101,9 +101,9 @@
     
     
     <entry>
-      <title>工程技术</title>
-      <link href="/posts/df2c87fb.html"/>
-      <url>/posts/df2c87fb.html</url>
+      <title>前后端工程</title>
+      <link href="/posts/e53248f0.html"/>
+      <url>/posts/e53248f0.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -262,19 +262,6 @@
       <url>/posts/38ead4d1.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="热烈庆祝"><a href="#热烈庆祝" class="headerlink" title="热烈庆祝"></a>热烈庆祝</h3><p><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/FtfWc9eyKG9BKGm8UH5JcjrXQ5uL.png"></p><h3 id="代码嵌入"><a href="#代码嵌入" class="headerlink" title="代码嵌入"></a>代码嵌入</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># -*- coding: utf8 -*-</span></span><br><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">handler</span>(<span class="params">event, context</span>):</span><br><span class="line">    r = requests.post(<span class="string">&quot;https://api.github.com/repos/xingyun52/blog/dispatches&quot;</span>,</span><br><span class="line">                      json = &#123;<span class="string">&quot;event_type&quot;</span>: <span class="string">&quot;callbackEvent&quot;</span>&#125;,</span><br><span class="line">                      headers = &#123;<span class="string">&quot;User-Agent&quot;</span>:<span class="string">&#x27;curl/7.52.1&#x27;</span>,</span><br><span class="line">                                 <span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;application/json&#x27;</span>,</span><br><span class="line">                                 <span class="string">&#x27;Accept&#x27;</span>: <span class="string">&#x27;application/vnd.github.everest-preview+json&#x27;</span>,</span><br><span class="line">                                 <span class="string">&#x27;Authorization&#x27;</span>: <span class="string">&#x27;token XXToken&#x27;</span>&#125;)</span><br><span class="line">    <span class="keyword">if</span> r.status_code == <span class="number">204</span>:</span><br><span class="line">        <span class="keyword">return</span> <span class="string">&quot;This&#x27;s OK!&quot;</span></span><br><span class="line">    <span class="keyword">else</span>:</span><br><span class="line">        <span class="keyword">return</span> r.status_code</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>本地环境测试</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">curl -X POST https://api.github.com/repos/xingyun52/blog/dispatches \</span><br><span class="line">    -H <span class="string">&#x27;Accept&#x27;</span>: <span class="string">&#x27;application/vnd.github.everest-preview+json&#x27;</span>\</span><br><span class="line">    -H <span class="string">&quot;Authorization: token XXToken&quot;</span> \</span><br><span class="line">    -d <span class="string">&#x27;&#123;&quot;event_type&quot;:&quot;callbackEvent&quot;&#125;&#x27;</span></span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>发布的测试文档</title>
-      <link href="/posts/ca655f0e.html"/>
-      <url>/posts/ca655f0e.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="语雀测试文档"><a href="#语雀测试文档" class="headerlink" title="语雀测试文档"></a>语雀测试文档</h2><h3 id="测试图片显示"><a href="#测试图片显示" class="headerlink" title="测试图片显示"></a>测试图片显示</h3><p><img src="https://yybadam.oss-cn-hangzhou.aliyuncs.com/undefined/FrqTLq1xfs2H_nViqZ9Expw4yj2F.png"></p><h3 id="测试视频显示"><a href="#测试视频显示" class="headerlink" title="测试视频显示"></a>测试视频显示</h3><p><a href="https://player.bilibili.com/player.html?aid=55895675&autoplay=0">点击查看【bilibili】</a></p>]]></content>
       
       
       
