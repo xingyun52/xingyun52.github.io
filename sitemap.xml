@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://mandy.cloud/posts/3c48b6f8.html</loc>
-    
-    <lastmod>2023-09-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://mandy.cloud/posts/38ead4d1.html</loc>
     
     <lastmod>2023-09-09</lastmod>
@@ -38,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://mandy.cloud/posts/6ae424c.html</loc>
+    <loc>https://mandy.cloud/posts/3c48b6f8.html</loc>
     
     <lastmod>2023-09-09</lastmod>
     
@@ -56,34 +47,7 @@
   </url>
   
   <url>
-    <loc>https://mandy.cloud/posts/8606f489.html</loc>
-    
-    <lastmod>2023-09-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://mandy.cloud/posts/78da24a0.html</loc>
-    
-    <lastmod>2023-09-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mandy.cloud/posts/494d4d85.html</loc>
-    
-    <lastmod>2023-09-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mandy.cloud/posts/e53248f0.html</loc>
     
     <lastmod>2023-09-09</lastmod>
     
@@ -128,7 +92,43 @@
   </url>
   
   <url>
+    <loc>https://mandy.cloud/posts/6ae424c.html</loc>
+    
+    <lastmod>2023-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mandy.cloud/posts/8606f489.html</loc>
+    
+    <lastmod>2023-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mandy.cloud/posts/494d4d85.html</loc>
+    
+    <lastmod>2023-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mandy.cloud/posts/c1fcb27d.html</loc>
+    
+    <lastmod>2023-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mandy.cloud/posts/e53248f0.html</loc>
     
     <lastmod>2023-09-09</lastmod>
     
