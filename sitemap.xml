@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mandy.cloud/posts/5b9544ad.html</loc>
+    
+    <lastmod>2023-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mandy.cloud/posts/424c0997.html</loc>
     
     <lastmod>2023-12-09</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://mandy.cloud/posts/3c48b6f8.html</loc>
-    
-    <lastmod>2023-12-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mandy.cloud/posts/5b9544ad.html</loc>
     
     <lastmod>2023-12-09</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://mandy.cloud/categories/index.html</loc>
+    <loc>https://mandy.cloud/about/index.html</loc>
     
     <lastmod>2023-12-09</lastmod>
     
@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://mandy.cloud/about/index.html</loc>
+    <loc>https://mandy.cloud/categories/index.html</loc>
     
     <lastmod>2023-12-09</lastmod>
     
